@@ -16,6 +16,7 @@ This lack of visibility just makes everything more complicated, you know. Some p
 
 # Objective
 To build a system that:
+
 -Correlates network traffic with specific system processes.
 
 -Detects anomalous or unauthorized outbound connections.
