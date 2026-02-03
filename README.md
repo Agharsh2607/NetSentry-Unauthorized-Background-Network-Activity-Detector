@@ -52,5 +52,6 @@ and anomaly-based detection techniques.
 
 # For Running the code :
 
-& "C:/Users/USER/OneDrive/Desktop/New folder/.venv/Scripts/python.exe" "c:\Users\USER\OneDrive\Desktop\New folder\project.py"
+& "C:/Users/USER/OneDrive/Desktop/NetSentry/.venv/Scripts/python.exe" "c:\Users\USER\OneDrive\Desktop\NetSentry\project.py"
+also mine is in onedrive so please change to your system folder
 
