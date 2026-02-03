@@ -31,3 +31,21 @@ To build a system that:
 
 -Activity Dashboard: A visual summary of network traffic history, organized by process and destination IP.
 
+## Architecture Overview:
+The system passively monitors network activity, correlates
+connections with process information, and applies rule-based
+and anomaly-based detection techniques.
+
+## Technologies Used:
+- Python
+- psutil
+- scapy
+- scikit-learn
+- Streamlit
+
+## How It Works:
+1. Capture outbound network connections
+2. Identify the originating process
+3. Analyze behavior using detection logic
+4. Generate alerts and visual summaries
+
