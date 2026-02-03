@@ -50,3 +50,7 @@ and anomaly-based detection techniques.
 3. Analyze behavior using detection logic
 4. Generate alerts and visual summaries
 
+# For Running the code :
+
+& "C:/Users/USER/OneDrive/Desktop/New folder/.venv/Scripts/python.exe" "c:\Users\USER\OneDrive\Desktop\New folder\project.py"
+
